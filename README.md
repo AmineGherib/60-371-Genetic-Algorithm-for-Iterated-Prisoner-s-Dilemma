@@ -1,1 +1,1 @@
-# 60-371-Genetic-Algorithm-for-Iterated-Prisonner-s-Dilemma
+# 60-371: Genetic Algorithm for IPD
